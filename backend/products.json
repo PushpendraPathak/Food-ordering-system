@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "restaurant": "Reddy's Biriyani Zone",
+      "dishName": "roasted chicken biriyani",
+      "description": "Indian Restaurant",
+      "rating": 4,
+      "cost": 190,
+      "imageUrl": "https://2.bp.blogspot.com/-DmrUGpBj5TI/WZkrF_GeowI/AAAAAAAAah8/D6WA8Hl2NyIQSJOPkds-mRtWDAqNM76gACEwYBhgL/s1600/8231.jpg"
+    },
+    {
+      "id": 2,
+      "restaurant": "Kabablo",
+      "dishName": "Cajun spiced chicken",
+      "description": "Indian Restaurant",
+      "rating": 4.1,
+      "cost": 230,
+      "imageUrl": "https://www.thespruceeats.com/thmb/8NlLbSNJBCP2PDPTecc64HM5JyQ=/1500x997/filters:fill(auto,1)/easy-cajun-spiced-chicken-breasts-3052924-10-5b450a86c9e77c00376624c0.jpg"
+    },
+    {
+      "id": 3,
+      "restaurant": "Main Land China",
+      "dishName": "Veg Momos",
+      "description": "Chinese Restaurant",
+      "rating": 3.9,
+      "cost": 250,
+      "imageUrl": "https://c.ndtvimg.com/2020-01/2brioi88_momos_625x300_21_January_20.jpg"
+    },
+    {
+      "id": 4,
+      "restaurant": "Beijing Bites",
+      "dishName": "Cripy Fried Chicken Momos",
+      "description": "Chinese Restaurant",
+      "rating": 4.2,
+      "cost": 180,
+      "imageUrl": "https://craftlog.com/m/i/3313966=s1280=h960"
+    },
+    {
+      "id": 5,
+      "restaurant": "McDonald's",
+      "dishName": "American cheese burger",
+      "description": "American Restaurant",
+      "rating": 3.9,
+      "cost": 260,
+      "imageUrl": "https://i.insider.com/4fe1e9486bb3f78c2800000c?width=600&format=jpeg&auto=webp"
+    },
+    {
+      "id": 6,
+      "restaurant": "KFC",
+      "dishName": "KFC Chicken Bucket",
+      "description": "American Restaurant",
+      "rating": 4.1,
+      "cost": 599,
+      "imageUrl": "https://i.pinimg.com/originals/b6/c2/5b/b6c25bbeccd4dabcaf79c2b301747d3f.jpg"
+    },
+    {
+      "id": 7,
+      "restaurant": "Home Kitchen Services",
+      "dishName": "Mix Non Veg Noodles",
+      "description": "Chinese Restaurant",
+      "rating": 3.9,
+      "cost": 100,
+      "imageUrl": "https://www.whiskaffair.com/wp-content/uploads/2020/03/Hakka-Noodles-2-3-480x270.jpg"
+    },
+    {
+      "id": 8,
+      "restaurant": "Hotel Shalimar",
+      "dishName": "Chicken Fried Rice",
+      "description": "Indo-Chinese Restaurant",
+      "rating": 4.4,
+      "cost": 190,
+      "imageUrl": "https://www.averiecooks.com/wp-content/uploads/2016/01/chickenfriedrice-2-650x975.jpg"
+    },
+    {
+      "id": 9,
+      "restaurant": "Al Arabia",
+      "dishName": "Chicken Shawarma",
+      "description": "Lebanese style Restaurant",
+      "rating": 4.2,
+      "cost": 120,
+      "imageUrl": "https://hips.hearstapps.com/vidthumb/images/190130-chicken-shwarma-horizontal-1551285400.png"
+    },
+    {
+      "id": 10,
+      "restaurant": "Al Bek",
+      "dishName": "Alfaham Chicken",
+      "description": "Lebanese style Restaurant",
+      "rating": 4.1,
+      "cost": 230,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfeQ7C9HCoibbNAbFGmmKuvcHnNVZeX6PjwQ&usqp=CAU"
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "admin",
+      "usermail": "admin",
+      "password": "admin",
+      "address": "Admin City",
+      "payment": "Amex 878778689",
+      "contact": "9999999999",
+      "profession": ""
+    },
+    {
+      "id": 102,
+      "name": "Avi",
+      "usermail": "avi@noob.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "address": "",
+      "payment": "",
+      "contact": "",
+      "profession": ""
+    },
+    {
+      "id": 103,
+      "name": "Pooja",
+      "usermail": "pooja@gmail.com",
+      "password": "abcdef",
+      "confirmPassword": "abcdef",
+      "address": "",
+      "payment": "",
+      "contact": "",
+      "profession": ""
+    },
+    {
+      "id": 104,
+      "name": "Atharva",
+      "usermail": "atharva@noob.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "address": "Noob city",
+      "payment": "",
+      "contact": "",
+      "profession": ""
+    },
+    {
+      "id": 105,
+      "name": "Aniket",
+      "usermail": "aniket@noob.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "address": "aniket city",
+      "payment": "",
+      "contact": "",
+      "profession": ""
+    },
+    {
+      "id": 106,
+      "name": "Pushpendra",
+      "usermail": "push@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "address": "Pushpendra city, USA",
+      "payment": "Amex 8784578475",
+      "contact": "",
+      "profession": ""
+    },
+    {
+      "id": 107,
+      "name": "Mei",
+      "usermail": "mei@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "address": "mei city",
+      "payment": "Amex 6677",
+      "contact": "",
+      "profession": ""
+    }
+  ]
+}
